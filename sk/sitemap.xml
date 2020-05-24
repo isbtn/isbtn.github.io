@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://isobutane.sk/posts/</loc>
+    <lastmod>2020-02-25T20:58:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://isobutane.sk/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://isobutane.sk/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="http://isobutane.sk/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://isobutane.sk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://isobutane.sk/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="http://isobutane.sk/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://isobutane.sk/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://isobutane.sk/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="http://isobutane.sk/tags/"
+                />
+  </url>
+  
+</urlset>
