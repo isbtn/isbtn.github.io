@@ -2,12 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://isobutane.sk/en/sitemap.xml</loc>
+	   	<loc>https://isbtn.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-02-13T22:28:24+01:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://isobutane.sk/sk/sitemap.xml</loc>
+	   	<loc>https://isbtn.github.io/sk/sitemap.xml</loc>
+		
+	   	<lastmod>2020-02-13T23:06:25+01:00</lastmod>
 		
 	</sitemap>
 	

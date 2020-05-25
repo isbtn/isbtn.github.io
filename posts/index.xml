@@ -2,14 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on isobutane</title>
-    <link>http://isobutane.sk/posts/</link>
+    <link>https://isbtn.github.io/posts/</link>
     <description>Recent content in Posts on isobutane</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>sk-sk</language>
     <lastBuildDate>Tue, 25 Feb 2020 20:58:55 +0100</lastBuildDate>
     
-	<atom:link href="http://isobutane.sk/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://isbtn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prvy prispevek</title>
+      <link>https://isbtn.github.io/posts/first/</link>
+      <pubDate>Thu, 13 Feb 2020 23:06:25 +0100</pubDate>
+      
+      <guid>https://isbtn.github.io/posts/first/</guid>
+      <description>slovenska verzia prveho prispevku more</description>
+    </item>
+    
+    <item>
+      <title>Druhy prispevok</title>
+      <link>https://isbtn.github.io/posts/second/</link>
+      <pubDate>Thu, 13 Feb 2020 22:28:24 +0100</pubDate>
+      
+      <guid>https://isbtn.github.io/posts/second/</guid>
+      <description>Nejaky text v slovencine.</description>
+    </item>
     
   </channel>
 </rss>

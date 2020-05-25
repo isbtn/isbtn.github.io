@@ -727,15 +727,17 @@ var breakpoints=function(){"use strict";function e(e){t.init(e)}var t={list:null
 		$('.scrolly').scrolly();
 
 	// Background.
-	// 	$wrapper._parallax(0.925);
+	// arx: turning off parallax
+	// 	$wrapper._parallax(0.9);
 
 	// Nav Panel.
 
 		// Toggle.
+	  // arx: prependTo main because otherwise it will be over photoswipe too
 			$navPanelToggle = $(
 				'<a href="#navPanel" id="navPanelToggle">Menu</a>'
 			)
-				.appendTo($wrapper);
+				.prependTo($main);
 
 			// Change toggle styling once we've scrolled past the header.
 				$header.scrollex({

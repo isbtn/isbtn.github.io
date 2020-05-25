@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>isbtn on isobutane</title>
-    <link>https://isbtn.github.io/en/</link>
-    <description>Recent content in isbtn on isobutane</description>
+    <title>Posts on isobutane</title>
+    <link>https://isbtn.github.io/en/posts/</link>
+    <description>Recent content in Posts on isobutane</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-sk</language>
     <lastBuildDate>Thu, 13 Feb 2020 22:28:24 +0100</lastBuildDate>
     
-	<atom:link href="https://isbtn.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://isbtn.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -3,44 +3,90 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://isobutane.sk/en/categories/</loc>
+    <loc>https://isbtn.github.io/en/</loc>
+    <lastmod>2020-02-13T22:28:24+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="http://isobutane.sk/categories/"
+                href="https://isbtn.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://isobutane.sk/en/categories/"
+                href="https://isbtn.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>http://isobutane.sk/en/</loc>
+    <loc>https://isbtn.github.io/en/posts/</loc>
+    <lastmod>2020-02-13T22:28:24+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="http://isobutane.sk/"
+                href="https://isbtn.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://isobutane.sk/en/"
+                href="https://isbtn.github.io/en/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://isobutane.sk/en/tags/</loc>
+    <loc>https://isbtn.github.io/en/posts/second/</loc>
+    <lastmod>2020-02-13T22:28:24+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="http://isobutane.sk/tags/"
+                href="https://isbtn.github.io/posts/second/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://isobutane.sk/en/tags/"
+                href="https://isbtn.github.io/en/posts/second/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://isbtn.github.io/en/posts/first/</loc>
+    <lastmod>2020-02-13T21:22:56+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://isbtn.github.io/posts/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://isbtn.github.io/en/posts/first/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://isbtn.github.io/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://isbtn.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://isbtn.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://isbtn.github.io/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://isbtn.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://isbtn.github.io/en/tags/"
                 />
   </url>
   

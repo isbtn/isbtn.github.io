@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on isobutane</title>
-    <link>http://isobutane.sk/tags/</link>
+    <link>https://isbtn.github.io/tags/</link>
     <description>Recent content in Tags on isobutane</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>sk-sk</language>
     
-	<atom:link href="http://isobutane.sk/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://isbtn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
